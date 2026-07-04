@@ -59,8 +59,8 @@ I enjoy building interactive reports that help organizations make informed decis
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** *(Add your LinkedIn profile)*
-- **GitHub:** *(Add your GitHub profile)*
+- **LinkedIn:** : https://www.linkedin.com/in/rushikesh-taralkar-89b363313/
+- **GitHub:** : https://github.com/RushikeshTaralkar007/PowerBI-Projects/tree/main
 
 ---
 
